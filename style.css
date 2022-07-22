@@ -1,0 +1,140 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0%;
+
+}
+
+.bar1{
+    background: url(img/home.jpg);
+   
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    object-position: left;
+    
+}
+.star{
+    margin-left: 10vw !important;
+    color: white !important;
+    font-size: 1rem !important;
+}
+.sar{
+    color: white !important;
+}
+.marg{
+    margin-right: 20vw !important;
+    font-size: 1.2rem;
+}
+h1{
+    color: white;
+    font-style: italic;
+    text-align: center;
+    font-size: 80px;
+    margin-top: 25px;
+
+}
+h2{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 300;
+
+}
+.srchbar{
+    align-items: center;
+}
+.search1 {
+    border: 0;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    
+}
+.search2{
+  border: 0cm;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  width: 30vw;
+  height: 8vh;
+}
+
+
+.search-bar-sec {
+    display: flex;
+    justify-content: center;
+}
+.sec {
+    display: flex;
+}
+
+.car img{
+     
+    width: 100% !important;
+}
+.text1{
+    margin-top: 60px;
+}
+.sec3{
+    align-items: center;
+    margin-left: 10vw; 
+}
+.shadow1:hover {
+    box-shadow: 1px 0.5px #888888;
+}
+.pg{
+    padding-top: 5rem;
+}
+.cd{
+    margin-top: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 2.5rem;
+    height: 3rem;
+}
+.button1 {
+    background-color: red;
+    border-color: rgb(239, 79, 95);
+    margin-top: 2rem;
+    border-radius: 8px;
+    height: 50px;
+}
+.email-in{
+    border-radius: 8px;
+    height: 50px;
+    width: 20rem;
+    border-width: 1px;
+
+}
+.app-sec{
+    padding-top: 10px;
+}
+.app{
+    height: 50px;
+    margin-top: 1rem;
+}
+.logo1{
+    height: 10px;
+}
+.pg-5{
+    padding-top: 50px;
+}
+.bt-1{
+    height: 40px;
+    width: 70px;
+    border-width: 1px;
+
+}
+.bt-fl{
+    float: right;
+    border-width: 1px;
+}
+.about{
+    padding-top: 80px;
+}
+a{
+    text-decoration: none;
+    color: #888888;
+}
+.pd{
+    color: #888888;
+}
